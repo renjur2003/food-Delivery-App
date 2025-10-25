@@ -15,8 +15,8 @@ const FoodDisplay = ({ category }) => {
           if (category === "All" || category === item.category) {
             return (
               <FoodItem
-                key={item.id || index}       
-                id={item.id || index}         
+                key={item._id || index}       
+                id={item._id || index}         
                 name={item.name}
                 description={item.description}
                 price={item.price}
@@ -28,7 +28,7 @@ const FoodDisplay = ({ category }) => {
         })}
       </div>
     </div>
-  )
+  ) 
 }
 
 export default FoodDisplay
