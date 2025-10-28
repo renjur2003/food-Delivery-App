@@ -7,13 +7,13 @@ Users can browse food items, filter by category, add items to the cart, view tot
 
 ## 🚀 Features
 
-✅ Browse food items by category
-✅ Add & remove items from cart 
-✅ Real-time cart total calculation 
-✅ Delivery and promo code section 
-✅ Context API for global state management 
-✅ Fully responsive design (mobile & desktop) 
-✅ Organized folder structure with reusable components
+- Browse food items by category
+- Add & remove items from cart 
+- Real-time cart total calculation 
+- Delivery and promo code section 
+- Context API for global state management 
+- Fully responsive design (mobile & desktop) 
+- Organized folder structure with reusable components
 ---
 
 ## 🛠️ Tech Stack
